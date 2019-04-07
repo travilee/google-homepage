@@ -1,0 +1,59 @@
+* {
+    color: #5f6368;
+    font-family: sans-serif;
+}
+
+.topnav ul li {
+    display: block;
+    float: left;
+    padding: .5em;
+}
+.topnav a {
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.topnav a:hover {
+    text-decoration: underline;
+}
+
+.leftnav {
+    float: left;
+    text-align: left;
+}
+
+.rightnav {
+    float: right;
+}
+
+.maincontent {
+    clear: both;
+    text-align: center;
+    height: 750px;
+}
+
+.maincontent img {
+    padding-top: 200px;
+    padding-bottom: 25px;
+}
+
+.searchbar {
+    font: 16px arial, sans-serif;
+    line-height: 34px;
+    height: 34px;
+    width: 450px;
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+
+.searchbtn {
+    padding: 10px;
+    margin: 5px;
+    font-size: 1.15em;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: gray;
+}
